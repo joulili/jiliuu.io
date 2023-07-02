@@ -19,11 +19,11 @@
 	    "key":"Alist",
 	    "name":"Alist",
 	    "type":3,
-	    "api":"joulili.asuscomm.com:6789/tvbox/libs/alist.min.js",
+	    "api":"http://joulili.asuscomm.com:6789/tvbox/libs/alist.min.js",
 	    "searchable":1,
 	    "quickSearch":1,
 	    "filterable":0,
-	    "ext":"joulili.asuscomm.com:6789/tvbox/json/alist.json;50;video"
+	    "ext":"http://joulili.asuscomm.com:6789/tvbox/json/alist.json;50;video"
 	},
         {
             "key": "dr_菜狗",
